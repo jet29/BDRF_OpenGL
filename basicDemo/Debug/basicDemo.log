@@ -1,0 +1,15 @@
+﻿  glad.c
+  Light.cpp
+  main.cpp
+c:\users\alchenthecat\documents\semestre viii\funciones y tecnicas de computacion grafica\tarea 1 final\basicdemo(windows-vs2017)\basicdemo\main.cpp(65): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\alchenthecat\documents\semestre viii\funciones y tecnicas de computacion grafica\tarea 1 final\basicdemo(windows-vs2017)\basicdemo\main.cpp(67): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\alchenthecat\documents\semestre viii\funciones y tecnicas de computacion grafica\tarea 1 final\basicdemo(windows-vs2017)\basicdemo\main.cpp(96): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\alchenthecat\documents\semestre viii\funciones y tecnicas de computacion grafica\tarea 1 final\basicdemo(windows-vs2017)\basicdemo\main.cpp(514): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\alchenthecat\documents\semestre viii\funciones y tecnicas de computacion grafica\tarea 1 final\basicdemo(windows-vs2017)\basicdemo\main.cpp(637): warning C4018: '<': signed/unsigned mismatch
+  Model.cpp
+  Shader.cpp
+  stb_image.cpp
+  UserInterface.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  basicDemo.vcxproj -> C:\Users\AlchenTheCat\Documents\Semestre VIII\Funciones y Tecnicas de Computacion Grafica\Tarea 1 Final\basicDemo(Windows-VS2017)\Debug\basicDemo.exe
